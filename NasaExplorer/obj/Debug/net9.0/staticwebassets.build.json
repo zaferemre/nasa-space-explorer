@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+pLiOoIsC1FUMctXEJ4bT+ZFNPq3TxEdSYvKrz6kL8Q=",
+  "Source": "NasaExplorer",
+  "BasePath": "_content/NasaExplorer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
