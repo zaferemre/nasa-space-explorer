@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NasaExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93c76c75703088d339edfeb745063634e3256d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NasaExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NasaExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
